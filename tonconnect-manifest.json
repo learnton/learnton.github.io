@@ -1,5 +1,5 @@
 {
-  "url": "https://learnton.github.io",                        // required
-  "name": "TestTonApp",                      // required
-  "iconUrl": "https://learnton.github.io/assets/icon.png"               // required
+  "url": "https://learnton.github.io",  
+  "name": "TestTonApp",
+  "iconUrl": "https://learnton.github.io/assets/icon.png"
 }
